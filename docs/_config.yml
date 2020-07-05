@@ -1,3 +1,13 @@
+title: BobTalksTech
+description: See what's new on the [BobTalksTech YouTube channel](https://www.youtube.com/channel/UCEZvFXNuS2ZfzXO4I2z-yMg)
 theme: jekyll-theme-minimal
 google_analytics: UA-58134115-5
 google_adsense: ca-pub-4973712141072148
+show_downloads: false
+is_project_page: false
+social.youtube: https://www.youtube.com/channel/UCEZvFXNuS2ZfzXO4I2z-yMg
+social.twitch: https://www.twitch.tv/bobtalkstech
+social.facebook: https://www.facebook.com/bobtalkstech
+social.instagram: https://www.instagram.com/bobtalkstech/
+social.twitter: https://twitter.com/bobtalkstech/
+social.github: https://github.com/bobtalkstech
