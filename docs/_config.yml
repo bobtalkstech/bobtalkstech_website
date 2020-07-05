@@ -4,6 +4,7 @@ theme: jekyll-theme-minimal
 author: Bob
 google_analytics: UA-58134115-5
 google_adsense: ca-pub-4973712141072148
+include: ['_posts']
 show_downloads: false
 is_project_page: false
 social:
