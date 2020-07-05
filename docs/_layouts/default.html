@@ -23,28 +23,19 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.social.show %}
-        <h3>{{ site.social.heading | "Social media" }}</h3>
-
-        <ul>
-          {% if site.social.youtube %}
-            <li><a href="{{site.social.youtube}}" title="YouTube" target="_blank">YouTube</a></li>
-          {% endif %}
-          {% if site.social.twitch %}
-            <li><a href="{{site.social.twitch}}" title="Twitch" target="_blank">Twitch</a></li>
-          {% endif %}
-          {% if site.social.facebook %}
-            <li><a href="{{site.social.facebook}}" title="Facebook" target="_blank">Facebook</a></li>
-          {% endif %}
-          {% if site.social.instagram %}
-            <li><a href="{{site.social.instagram}}" title="Instagram" target="_blank">Instagram</a></li>
-          {% endif %}
-          {% if site.social.twitter %}
-            <li><a href="{{site.social.twitter}}" title="Twitter" target="_blank">Twitter</a></li>
-          {% endif %}
-          {% if site.social.github %}
-            <li><a href="{{site.social.github}}" title="GitHub" target="_blank">GitHub</a></li>
-          {% endif %}
-        </ul>
+        <div class="social-list">
+          <h3>{{ site.social.heading | "Social media" }}</h3>
+          <ul>
+              <li><a href="{{site.social.youtube | 'https://youtube.com' }}" title="YouTube" target="_blank">YouTube</a></li>
+              <li><a href="{{site.social.twitch 'https://twitch.com' }}" title="Twitch" target="_blank">Twitch</a></li>
+              <li><a href="{{site.social.facebook 'https://facebook.com' }}" title="Facebook" target="_blank">Facebook</a></li>
+          </ul>
+          <ul>
+              <li><a href="{{site.social.instagram | 'https:instagram.com' }}" title="Instagram" target="_blank">Instagram</a></li>
+              <li><a href="{{site.social.twitter | 'https://twitter.com' }}" title="Twitter" target="_blank">Twitter</a></li>
+              <li><a href="{{site.social.github | 'https://github.com' }}" title="GitHub" target="_blank">GitHub</a></li>
+          </ul>
+        </div>
         {% endif %}
 
         {% if site.github.is_project_page %}
