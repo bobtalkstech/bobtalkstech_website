@@ -60,7 +60,9 @@
       ga('create', '{{ site.google_analytics }}', 'auto');
       ga('send', 'pageview');
     </script>
-    <script data-ad-client="ca-pub-4973712141072148" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    {% endif %}
+    {% if site.google_analytics %}
+      <script data-ad-client="{{ site.google_adsense }}" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     {% endif %}
   </body>
 </html>
