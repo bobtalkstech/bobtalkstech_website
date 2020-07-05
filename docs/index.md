@@ -11,9 +11,10 @@ I just started setting things up. The content is coming together and will be sho
 
 Subscribe to your favorite social media sites to keep up-to-date!
 
-### BobTalksTech on these sites
+### BobTalksTech on social
 
 * [YouTube](https://www.youtube.com/channel/UCEZvFXNuS2ZfzXO4I2z-yMg)
+* [Twitch](https://www.twitch.tv/bobtalkstech)
 * [Facebook](https://www.facebook.com/bobtalkstech)
 * [Instagram](https://www.instagram.com/bobtalkstech/)
 * [Twitter](https://twitter.com/bobtalkstech/)
