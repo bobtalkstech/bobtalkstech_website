@@ -2,6 +2,7 @@ title: BobTalksTech
 description: See what's new on the <a href="https://www.youtube.com/channel/UCEZvFXNuS2ZfzXO4I2z-yMg" title="See what new on YouTube" target="_blank">BobTalksTech YouTube channel</a>
 theme: jekyll-theme-minimal
 author: Bob
+url: /
 google_analytics: UA-58134115-5
 google_adsense: ca-pub-4973712141072148
 include: ['_posts']

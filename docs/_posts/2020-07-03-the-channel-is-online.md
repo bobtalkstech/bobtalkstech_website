@@ -6,7 +6,7 @@ excerpt: I just started setting things up. The content is coming together and wi
 tags:
   site info
 ---
-<img align="left" width="100" height="100" src="../images/under_construction.png" alt="Under construction: https://pixabay.com/vectors/sign-road-under-construction-34184/" title="Under construction: https://pixabay.com/vectors/sign-road-under-construction-34184/">
+<img align="left" width="100" height="100" src="/images/under_construction.png" alt="Under construction: https://pixabay.com/vectors/sign-road-under-construction-34184/" title="Under construction: https://pixabay.com/vectors/sign-road-under-construction-34184/">
 
 I just started setting things up. The content is coming together and will be showing up soon. (Yeah, that's what they all say, but, really!)
 
