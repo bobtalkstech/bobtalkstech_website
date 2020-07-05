@@ -22,33 +22,33 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
-
         {% if site.social.show %}
         <h3>{{ site.social.heading | "Social media" }}</h3>
 
         <ul>
           {% if site.social.youtube %}
-            <li>[YouTube]({{site.social.youtube}})</li>
+            <li><a href="{{site.social.youtube}}" title="YouTube" target="_blank">YouTube</a></li>
           {% endif %}
           {% if site.social.twitch %}
-            <li>[Twitch]({{site.social.twitch}})</li>
+            <li><a href="{{site.social.twitch}}" title="Twitch" target="_blank">Twitch</a></li>
           {% endif %}
           {% if site.social.facebook %}
-            <li>[Facebook]({{site.social.facebook}})</li>
+            <li><a href="{{site.social.facebook}}" title="Facebook" target="_blank">Facebook</a></li>
           {% endif %}
           {% if site.social.instagram %}
-            <li>[Instagram]({{site.social.instagram}})</li>
+            <li><a href="{{site.social.instagram}}" title="Instagram" target="_blank">Instagram</a></li>
           {% endif %}
           {% if site.social.twitter %}
-            <li>[Twitter]({{site.social.twitter}})</li>
+            <li><a href="{{site.social.twitter}}" title="Twitter" target="_blank">Twitter</a></li>
           {% endif %}
           {% if site.social.github %}
-            <li>[github]({{site.social.github}})</li>
+            <li><a href="{{site.social.github}}" title="GitHub" target="_blank">GitHub</a></li>
           {% endif %}
         </ul>
+        {% endif %}
+
+        {% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
         {% if site.github.is_user_page %}
