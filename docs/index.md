@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Getting ready to launch a new site and new YouTube channel to talk about my
 favorite tech topics.
 
