@@ -5,11 +5,12 @@ google_analytics: UA-58134115-5
 google_adsense: ca-pub-4973712141072148
 show_downloads: false
 is_project_page: false
-social.show: true
-social.heading: Follow me on
-social.youtube: https://www.youtube.com/channel/UCEZvFXNuS2ZfzXO4I2z-yMg
-social.twitch: https://www.twitch.tv/bobtalkstech
-social.facebook: https://www.facebook.com/bobtalkstech
-social.instagram: https://www.instagram.com/bobtalkstech/
-social.twitter: https://twitter.com/bobtalkstech/
-social.github: https://github.com/bobtalkstech
+social:
+  show: true
+  heading: Follow me on
+  youtube: https://www.youtube.com/channel/UCEZvFXNuS2ZfzXO4I2z-yMg
+  twitch: https://www.twitch.tv/bobtalkstech
+  facebook: https://www.facebook.com/bobtalkstech
+  instagram: https://www.instagram.com/bobtalkstech/
+  twitter: https://twitter.com/bobtalkstech/
+  github: https://github.com/bobtalkstech
