@@ -7,8 +7,8 @@ url: "https://bobtalkstech.com"
 google_analytics: UA-58134115-5
 google_adsense: ca-pub-4973712141072148
 include: ['_posts']
+show_github: false
 show_downloads: false
-is_project_page: false
 social:
   show: true
   heading: "Follow me on"
