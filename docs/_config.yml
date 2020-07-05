@@ -1,5 +1,5 @@
-title: "BobTalksTech"
-description: "See what's new on the <a href="https://www.youtube.com/channel/UCEZvFXNuS2ZfzXO4I2z-yMg" title="See what new on YouTube" target="_blank">BobTalksTech YouTube channel</a>"
+title: BobTalksTech
+description: See what's new on the <a href="https://www.youtube.com/channel/UCEZvFXNuS2ZfzXO4I2z-yMg" title="See what new on YouTube" target="_blank">BobTalksTech YouTube channel</a>
 theme: jekyll-theme-minimal
 author: "Bob"
 baseurl: ""
