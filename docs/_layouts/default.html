@@ -31,7 +31,7 @@
               <li><a href="{{site.social.facebook 'https://facebook.com' }}" title="Facebook" target="_blank">Facebook</a></li>
           </ul>
           <ul>
-              <li><a href="{{site.social.instagram | 'https:instagram.com' }}" title="Instagram" target="_blank">Instagram</a></li>
+              <li><a href="{{site.social.instagram | 'https://instagram.com' }}" title="Instagram" target="_blank">Instagram</a></li>
               <li><a href="{{site.social.twitter | 'https://twitter.com' }}" title="Twitter" target="_blank">Twitter</a></li>
               <li><a href="{{site.social.github | 'https://github.com' }}" title="GitHub" target="_blank">GitHub</a></li>
           </ul>
@@ -58,6 +58,17 @@
 
       {{ content }}
 
+      </section>
+      <section>
+        <h1>Latest posts</h1>
+        <ul>
+          {% for post in site.posts %}
+            <li>
+              <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+              {{ post.excerpt }}
+            </li>
+          {% endfor %}
+        </ul>
       </section>
       <footer>
         {% if site.github.is_project_page %}

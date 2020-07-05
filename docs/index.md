@@ -1,10 +1,7 @@
-See what's new on the [BobTalksTech YouTube channel](https://www.youtube.com/channel/UCEZvFXNuS2ZfzXO4I2z-yMg)
+Getting ready to launch a new site and new YouTube channel to talk about my
+favorite tech topics.
 
-## The channel is online!
-_Posted July 3, 2020_
+Subscribe to [BobTalksTech YouTube channel](https://www.youtube.com/channel/UCEZvFXNuS2ZfzXO4I2z-yMg)
+and enable notifications to learn about new content as it comes out!
 
-<img align="left" width="100" height="100" src="images/under_construction.png" alt="Under construction: https://pixabay.com/vectors/sign-road-under-construction-34184/" title="Under construction: https://pixabay.com/vectors/sign-road-under-construction-34184/">
-
-I just started setting things up. The content is coming together and will be showing up soon. (Yeah, that's what they all say, but, really!)
-
-Subscribe to your favorite social media sites to keep up-to-date!
+You can also follow me on your favorite social media sites to keep up-to-date!
