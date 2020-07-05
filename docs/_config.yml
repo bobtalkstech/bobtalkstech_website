@@ -1,9 +1,9 @@
-title: BobTalksTech
-description: See what's new on the <a href="https://www.youtube.com/channel/UCEZvFXNuS2ZfzXO4I2z-yMg" title="See what new on YouTube" target="_blank">BobTalksTech YouTube channel</a>
+title: "BobTalksTech"
+description: "See what's new on the <a href="https://www.youtube.com/channel/UCEZvFXNuS2ZfzXO4I2z-yMg" title="See what new on YouTube" target="_blank">BobTalksTech YouTube channel</a>"
 theme: jekyll-theme-minimal
-author: Bob
-absolute_url: https://bobtalkstech.com
-url: /
+author: "Bob"
+baseurl: ""
+url: "https://bobtalkstech.com"
 google_analytics: UA-58134115-5
 google_adsense: ca-pub-4973712141072148
 include: ['_posts']
@@ -11,7 +11,7 @@ show_downloads: false
 is_project_page: false
 social:
   show: true
-  heading: Follow me on
+  heading: "Follow me on"
   youtube: https://www.youtube.com/channel/UCEZvFXNuS2ZfzXO4I2z-yMg
   twitch: https://www.twitch.tv/bobtalkstech
   facebook: https://www.facebook.com/bobtalkstech
