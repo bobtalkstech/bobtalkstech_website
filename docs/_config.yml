@@ -1,5 +1,7 @@
 title: BobTalksTech
 description: See what's new on the <a href="https://www.youtube.com/channel/UCEZvFXNuS2ZfzXO4I2z-yMg" title="See what new on YouTube" target="_blank">BobTalksTech YouTube channel</a>
+copyright: (c) 2020, Bob Watson and BobTalksTech.com. All rights reserved.
+disclaimer: The views, thoughts, and opinions presented on this site are those of the author alone and do not necessarily represent the views of the author's employer or any other individual or organization.
 theme: jekyll-theme-minimal
 author: "Bob"
 baseurl: ""
