@@ -1,5 +1,6 @@
 ---
 layout: default
+title: BobTalksTech home
 ---
 
 Getting ready to launch a new site and new YouTube channel to talk about my

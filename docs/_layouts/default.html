@@ -47,6 +47,7 @@
             </a>
           {% endif %}
         </h3>
+        <p>{{ page.title }}</p>
 
 
         {% if site.show_github %}
@@ -96,9 +97,13 @@
               {% if site.disclaimer %}
                 {{ site.disclaimer }}
               {% endif%}
-            <small>
+            </small>
           </p>
         {% endif%}
+        <p><small>
+          If you see any problems with this page, please let me know at
+          blog@bobtalkstech.com and refer to page: {{ page.title }}. Thanks!
+        </small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
