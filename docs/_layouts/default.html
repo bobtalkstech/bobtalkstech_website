@@ -38,7 +38,16 @@
         </div>
         {% endif %}
 
-        <h3><a href="/about.html" title="About Bob of BobTalksTech.com">About</a></h3>
+        <h3>
+          {% if page.title != "About" %}
+            <a href="/about.html" title="About Bob of BobTalksTech.com">
+          {% endif %}
+              About BobTalksTech.com
+          {% if page.title != "About" %}
+            </a>
+          {% endif %}
+        </h3>
+
 
         {% if site.show_github %}
           {% if site.github.is_project_page %}
