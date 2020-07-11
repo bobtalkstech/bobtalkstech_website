@@ -76,23 +76,9 @@
           {% endif %}
         {% endif %}
       </header>
-      <section>
 
         {{ content }}
 
-      </section>
-      <section>
-        <h1>Latest posts</h1>
-        <small>
-        <ul>
-          {% for post in site.posts limit:10 %}
-            <li>
-              <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-              <p>{{ post.excerpt }}</p>
-            </li>
-          {% endfor %}
-        </ul>
-      </section>
       <footer>
         {% if site.github.is_project_page %}
           <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
