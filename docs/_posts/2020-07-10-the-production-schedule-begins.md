@@ -6,7 +6,7 @@ excerpt: The first series is in pre-production and the production schedule has b
 tags:
   site info
 ---
-<img style="text-align: left; margin-right: 10px; height:100px; width: 100px;" src="/images/video-camera.png"
+<img style="float: left; margin-right: 10px; height:100px; width: 100px;" src="/images/video-camera.png"
 alt="Video camera image" title="Video camera" />
 
 I started writing the first batch of videos and I posted the initial production

@@ -6,7 +6,7 @@ excerpt: I just started setting things up. The content is coming together and wi
 tags:
   site info
 ---
-<img style="text-align: left; margin-right: 10px; height:100px; width: 100px;"
+<img style="float: left; margin-right: 10px; height:100px; width: 100px;"
  src="/images/under_construction.png" alt="Under construction: https://pixabay.com/vectors/sign-road-under-construction-34184/"
  title="Under construction: https://pixabay.com/vectors/sign-road-under-construction-34184/" />
 
