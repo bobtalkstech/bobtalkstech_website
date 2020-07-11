@@ -6,12 +6,12 @@ excerpt: The first series is in pre-production and the production schedule has b
 tags:
   site info
 ---
-<img align="left" width="100" height="100" src="/images/video-camera.png" alt="Video camera image" title="Video camera">
+<img style="text-align: left; margin-right: 10px; height:100px; width: 100px;" src="/images/video-camera.png"
+alt="Video camera image" title="Video camera" />
 
-I posted the initial produduction schedule for the videos that are scheduled for release in August 2020
+I started writing the first batch of videos and I posted the initial production
+schedule for the videos scheduled for release in August 2020.
 
 Subscribe to your favorite social media sites to keep up-to-date!
 
-<div><p><small>Icon made by <a href="https://www.flaticon.com/authors/freepik"
-title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/"
-title="Flaticon">www.flaticon.com</a><small></p></div>
+Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/).
