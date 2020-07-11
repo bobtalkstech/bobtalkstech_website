@@ -39,6 +39,16 @@
         {% endif %}
 
         <h3>
+          {% if page.title != "Schedule" %}
+            <a href="/schedule.html" title="Production schedule for BobTalksTech.com">
+          {% endif %}
+              Production schedule
+          {% if page.title != "Schedule" %}
+            </a>
+          {% endif %}
+        </h3>
+
+        <h3>
           {% if page.title != "About" %}
             <a href="/about.html" title="About Bob of BobTalksTech.com">
           {% endif %}
