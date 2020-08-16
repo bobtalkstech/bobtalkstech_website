@@ -6,7 +6,7 @@ excerpt: See new episodes planned in the updated production schedule.
 tags:
   site info
 ---
-<img style="float: left; margin-right: 10px; height:100px; width: 100px;" src="/images/320px-Raspberry_Pi.jpg"
+<img style="float: left; margin-right: 10px; height:100px;" src="/images/320px-Raspberry_Pi.jpg"
 alt="Raspberry Pi circuit board image" title="The Raspberry Pi that will be the first thing to add to my Internet of Things. This image is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. " />
 
 Still in pre-production. I have the video production workflow sorted out for the
