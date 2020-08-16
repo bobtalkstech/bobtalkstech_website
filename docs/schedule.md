@@ -21,15 +21,23 @@ in this video.
 1. **_Hands-on tour of an IoT system_**<br />A walkthrough of an interactive IoT system
 simulation that illustrates the basic functions of an IoT solution at a functional
 level. There is no coding in this video.
-1. **_Connect your laptop as a thing_**<br />A demo of getting started with
-AWS IoT by using a laptop as an IoT device and connecting it to your AWS IoT
-account. This demonstrates the steps of setting up a simple IoT solution
-without the need for a device. There is some coding in this video.
-1. **_Connect a Raspberry Pi as a thing_**<br />Continues from the previous video on
-getting started with AWS IoT by connecting a Raspberry Pi as an IoT device to your
-AWS IoT account. This demonstrates the steps of setting up a simple IoT solution
-without the need for a device. There is some coding in this video.
-1. **_Do something interesting with your device_**<br />So you've connected your
-devices to AWS IoT, now what? Here's where you'll find out! In this video, you'll
-use a script to send messages from your device to AWS IoT. There is some coding
-in this video.
+
+## Coming in September 2020
+
+1. **_Building the IoT system tour app - step 0_**<br />This is the first of a series
+of videos in which we'll build the system that the hands-on tour demonstrates.
+Using a Python on a Raspberry Pi and some hardware attached to the Pi's GPIO,
+we'll build a simple device that lights LEDs in response to pressing a button. (No IoT, yet.)
+1. **_Building the IoT system tour app - step 1_**<br />In this video we'll continue
+to build the system from the hands-on tour by connecting the Raspberry Pi from the
+previous video to IoT, so that when we press a button on one Pi, it will light the
+LED on another using IoT Messaging.
+1. **_Building the IoT system tour app - step 2_**<br />In this video we'll continue
+developing the system that the hands-on tour demonstrates by adding an IoT rule to alter
+the color of the LED illuminated after a button press.
+1. **_Building the IoT system tour app - step 3_**<br />In this video we'll continue
+developing the system that the hands-on tour demonstrates by adding more IoT rules
+to perform additional actions based on the buttons pressed on the Raspberry Pi.
+1. **_Building the IoT system tour app - step 4_**<br />In this video we'll develop
+the system further by adding a device shadow so that the display device can  
+reflect activity that takes place while it was offline.
